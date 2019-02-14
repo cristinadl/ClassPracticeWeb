@@ -1,0 +1,11 @@
+COMMANDS FOR INITIATING GIT
+
+git init
+git status
+git add .
+git commit -m "commit"
+git remote add origin "url-to-git"
+git push -u origin master
+
+---------
+Can do any push and pull now :) 
